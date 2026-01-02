@@ -2,7 +2,7 @@
 * @name Nightcord
 * @description Nightcord from pjsk !
 * @author Tetralink
-* @version 0.0.0.0.1
+* @version 1.0
 */
 
 :root{
@@ -902,4 +902,5 @@
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
