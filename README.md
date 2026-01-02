@@ -1,7 +1,7 @@
 # Nightcord at 25:00 for discord
 A discord theme for BetterDiscord inspired by Project Sekai
 
-![alt text](https://raw.githubusercontent.com/Tetralink/Nightcord-at-25-00-discord-theme/refs/heads/main/1.png)
+![alt text](https://raw.githubusercontent.com/Tetralink/Nightcord-at-25-00-discord-theme/refs/heads/main/0.png)
 
 
 How to :
@@ -11,4 +11,4 @@ How to :
 3.Put the css in the folder
 4.Activate it and done !
 
-![alt text](https://raw.githubusercontent.com/Tetralink/Nightcord-at-25-00-discord-theme/refs/heads/main/3.png)
+![alt text](https://raw.githubusercontent.com/Tetralink/Nightcord-at-25-00-discord-theme/refs/heads/main/1.png)
