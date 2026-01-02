@@ -1,0 +1,886 @@
+/* Bar d'en haut */
+.c38106a3f0c3ca76-bar{
+  background-color: var(--purple1);
+}
+/* Bar d'application */
+.ef3116c2da186559-itemsContainer{
+  background-color: var(--black1);
+}
+.e6b7699ce8339e1c-searchBar{
+  background-color: var(--purple1);
+  border-color: var(--purple0);
+  border-width: 3px;
+}
+._99e7cad8d4c55236-scroller{
+  background-color: var(--purple1);
+  margin-bottom: 0;
+}
+
+._740174f3d6a2c8fe-themedBackground{
+  background-color: var(--purple1);
+}
+
+._36d072eab2b2e737-messagesWrapper{
+  background-color: var(--purple2);
+}
+
+._9293f6b2fc12398a-themed{
+  background-color: var(--purple1) !important;
+  border-color: var(--purple0);
+  border-width: 3px;
+  border-top:var(--purple0);
+  border-top-width: 3px;
+  border-top-style: solid;
+  height:51px;
+  margin-top:-1px;
+}
+
+._9293f6b2fc12398a-children:after{
+  background-image: none !important;
+}
+._5e434347c823b592-sidebar:after{
+  background-color: var(--purple1);
+}
+.ef3116c2da186559-wrapper{
+  margin-bottom: 0;
+}
+
+.f37cb1984c371ee5-header{
+  background-color: var(--purple1);
+  border-color: var(--purple0);
+  border-width: 3px;
+
+}
+._36d072eab2b2e737-chatGradient{
+  background:none;
+}
+
+.a3002d7de5be5280-appAsidePanelWrapper{
+  background-color: var(--purple1);
+}
+.c0bea05627c5dc35-inner{
+  background-color: var(--purple1);
+}
+.fb7f9476ada049c8-bannerButton{
+  background-color: var(--purple1);
+  color: var(--purple3);
+}
+.c0bea05627c5dc35-overlay{
+  background-color: var(--purple2);
+}
+._623de82e76ad7f82-grid{
+  background-color: var(--purple3);
+}
+._133bf5eea8e33a34-peopleColumn{
+  background-color: var(--purple2);
+}
+.f48ee41a9dd2c078-sectionsContainer{
+  background-color: var(--purple2);
+}
+.a623833d8a73e9ad-container{
+  background-color: var(--purple1);
+}
+._15b9a012b54be4f0-container{
+  background-color: var(--purple2);
+  margin-top: 0px;
+  align-items: end;
+}
+._084152b107f71237-shop{
+  background-color: var(--purple2);
+}
+.fcbddd55b8b335a1-productCardContainer{
+  background-color: var(--purple1);
+}
+.fcbddd55b8b335a1-footerGradient{
+  background: none !important;
+}
+._23746ba3de9452d8-scroller{
+  background-color: var(--purple2);
+}
+._956c67492d3b967a-container{
+  background-color: var(--purple1);
+}
+.cec93441fbd47328-container{
+  border-color: var(--purple1);
+}
+._5e434347c823b592-base{
+  background-color: var(--purple1);
+}
+.b4f99ff7fb9ad184-container{
+  background-color: var(--purple1);
+}
+._9c3bea41fd465666-profile{
+  background-color: var(--purple2);
+}
+._62dd31d5e86f2841-container{
+  background-color: var(--purple2);
+}
+._72c3859781ebce8f-wrapper{
+  background-color: var(--purple1);
+}
+.a22cb0c66246f5d3-buttonChildrenWrapper{
+  background-color: var(--purple1);
+}
+._2ea32c412048f708-name{
+  color: var(--purple3)
+}
+.c69b6db0641110f6-selected{
+  color: var(--purple3)
+}
+._7d20cf18f8a2784c-scroller{
+  background-color: var(--purple2);
+}
+._7e549558f336cddb-itemCard{
+  background-color: var(--purple1);
+}
+.f8fa068db52f043f-actionButton{
+  background-color: var(--purple3);
+}
+._133bf5eea8e33a34-container{
+  background-color: var(--purple0);
+  border-color: var(--purple0);
+}
+._5e434347c823b592-sidebarList{
+  background-color: var(--purple0);
+  border-width: 3px;
+  border-color: var(--purple0);
+  border-radius: 0;
+  border-left: 0px;
+}
+._252b6afd49fda06f-guildSeparator{
+  background-color: var(--purple0);
+}
+.e6b7699ce8339e1c-sectionDivider{
+  background-color: var(--purple0);
+  height:3px;
+}
+._6e9f8dce4cc18de3-childWrapperNoHoverBg:nth-child(2){
+  background: url(https://i.imgur.com/3hrdPZ4.png) center/cover no-repeat;
+}
+._6e9f8dce4cc18de3-childWrapper svg path{
+  display: none;
+}
+._133bf5eea8e33a34-item{
+  background-color: var(--purple2);
+}
+._133bf5eea8e33a34-addFriend{
+  background-color: var(--purple2) !important;
+}
+._5bc7ed9d4097f6b5-selected{
+  background-color: var(--purple3) !important;
+}
+._551b0894962ff66f-container{
+  background-color: var(--purple2);
+}
+._4cb8ad5be329b603-guildDetails{
+  background-color: var(--purple1);
+}
+._402f3d6682b6227d-icon svg path{
+  fill: var(--purple3);
+}
+._8a7fc664acf53af6-backdrop{
+  background-color: var(--purple2);
+}
+.a592e1970a0ce22c-container{
+  border-color: var(--purple3);
+}
+._4cb8ad5be329b603-iconMask{
+  background-color: var(--purple1) !important;
+}
+.a22cb0c66246f5d3-button{
+  background-color: var(--purple1);
+  border-color: var(--purple1);
+}
+
+.e131a99484292a19-container{
+  background-color: var(--purple2);
+}
+._2637a2609f343032-container{
+  border-color: var(--purple1);
+}
+._6981dc6d72610110-root{
+  background-image: url(https://static.wikitide.net/projectsekaiwiki/thumb/e/ed/Bg_area_10.png/1280px-Bg_area_10.png);
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._48b20dfd18726df7-video{
+  border-color: var(--purple2);
+}
+._2ea32c412048f708-name{
+  color: var(--purple4);
+}
+.f75fb00fb7356cbe-chat{
+  background-color: var(--purple0) !important;
+  border-top-style:none;
+  margin-top: -3px;
+}
+._629e4c86564a4ee7-sectionDivider{
+  background-color: var(--purple0);
+  height:3px;
+}
+.f75fb00fb7356cbe-form{
+  background-color: var(--purple2);
+}
+._8946359d8adb1488-contentContainer{
+  background-color: var(--purple2);
+}
+._8946359d8adb1488-sidebarContainer{
+  background-color: var(--purple2);
+}
+._3f864baf56c092ae-container{
+  background-color: var(--purple1);
+}
+._6a443ac3b8a8970b-shinyButton{
+  background-color: var(--purple1);
+}
+._5573a546299c96e8-container{
+  background-color: var(--purple1);
+}
+._823e17af53f649ad-boostContainer{
+  background-color: var(--purple3);
+  border-color:var(--purple2);
+}
+._409aa1aeee28d5f7-sidebar{
+  background-color: var(--purple1);
+}
+.e9e3ed8b8badfe05-contentHeader{
+  background-color: var(--purple1);
+}
+._6131ab3dbe0affed-scroller{
+  background-color: var(--purple2);
+}
+._1fed1dd06c7aabf7-accountProfileCard{
+  background-color: var(--purple1);
+}
+._1fed1dd06c7aabf7-background{
+  background-color: var(--purple2);
+}
+._1fed1dd06c7aabf7-fieldList{
+  background-color: var(--purple2);
+}
+._409aa1aeee28d5f7-fixedContent::after{
+  background: none !important;
+}
+.bd-store-card{
+  background-color: var(--purple1);
+}
+.bd-search-wrapper{
+  background-color: var(--purple2);
+}
+.bd-container{
+  background-color: var(--purple1);
+}
+._9d98d3a9398a6f7d-groupContent{
+  background-color: var(--purple1);
+
+}
+._217b73c8e5e3ff6d-collapseable{
+  border-color: var(--purple1);
+}
+.a562c840daab72a7-grabber{
+  background-color: var(--purple3);
+}
+.a562c840daab72a7-barFill{
+  background-color: var(--purple1) !important;
+  border-color: var(--purple1) !important;
+}
+._39b322c2a73a9168-cardPreview{
+  background-color: var(--purple2);
+}
+.e928f41923a9fe3e-container{
+  background-color: var(--purple1);
+}
+
+._7e549558f336cddb-emptyCard{
+  background-color: var(--purple1);
+}
+.f75fb00fb7356cbe-title{
+  margin-top:2px;
+  height:51px;
+}
+._44df51b030bd5ece-wrapper{
+  background-color: var(--purple1);
+}
+._4d95d73152192cf9-footer{
+  background-color: var(--purple3);
+}
+._506b39a96c2f8884-scrollbarGhostHairline{
+  background-color: var(--purple3);
+}
+._4d95d73152192cf9-textContainer{
+  background-color: var(--purple3);
+}
+.aa605f19898fe32e-upload{
+  background-color: var(--purple2);
+}
+.f7ecaca5c80dbf3a-wrapper{
+  background-color: var(--purple1);
+}
+._4d95d73152192cf9-downloadSection{
+  color:var(--purple1);
+}
+._4d95d73152192cf9-toggleExpandSection{
+  color: var(--purple1);
+}
+._4d95d73152192cf9-openFullPreviewSection{
+  color:var(--purple1);
+}
+._4d95d73152192cf9-codeIcon{
+  color:var(--purple1);
+}
+.c1e9c47c23f12ca3-scroller {
+  background-color: var(--purple2);
+}
+._8a031a135bfcb9ba-container{
+  background-color: var(--purple1);
+}
+._949ab4d1e52789e8-optionContainer{
+  background-color: var(--purple2);
+}
+._0d0f9ddd12a3ace3-progressContainer{
+  background-color:var(--purple2);
+}
+._30f280c215966c1a-notice{
+  background-color: var(--purple0);
+}
+.dca174a2baed7ac1-container{
+  background-color: var(--purple1);
+}
+.dca174a2baed7ac1-avatarWrapper{
+  background-color: var(--purple1);
+}
+._623de82e76ad7f82-embedFull{
+  border-color: var(--purple3);
+}
+._083ae98ea5145b08-cardHeightMeasure{
+  background-color: var(--purple1);
+}
+._083ae98ea5145b08-gradient{
+  background-image: none;
+}
+._083ae98ea5145b08-footerContent{
+  background-color: var(--purple1);
+}
+._2637a2609f343032-container{
+  background-color: var(--purple1);
+}
+.f37cb1984c371ee5-header{
+  height:20px;
+  border-bottom: 3px solid var(--purple0) !important;
+  height:48px;
+}
+.d5f3cd116f175f35-wrapper{
+  background-color: var(--purple1);
+}
+._581051df43c5ebb6-item{
+  color:var(--purple0);
+}
+._34c2c51cfce1632e-container{
+  background-color: var(--purple2);
+}
+.f369dba7416c67f0-list{
+  background-color:var(--purple2);
+}
+._01ae244280823725-resizeHandle{
+  background:none !important;
+  background-color: var(--purple1) !important;
+}
+.faa96b2163f6a142-container{
+  background-color: var(--purple1);
+}
+.faa96b2163f6a142-isOpen{
+  background-color: var(--purple0) !important;
+}
+
+._8e08ce7f1f1b7f5a-wave{
+  fill:var(--purple2);
+}
+._5153730f0c7cf20d-recommendedServerCard{
+  background-color: var(--purple1);
+}
+._744fffb886c6f25b-faq{
+  background-color: var(--purple1);
+}
+._4d7bb356d058f441-card{
+  background-color: var(--purple1);
+}
+.b62c4e4ee0e62730-perkCard{
+  background-color: var(--purple1);
+}
+._5cea9da4c2ca012f-header{
+  background-color: var(--purple0);
+}
+._5cea9da4c2ca012f-usersList{
+  background-color: var(--purple1);
+}
+.de806995aea91de8-emptyContainer{
+  background-image: url(https://i.imgur.com/LJT3Nlc.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+._4e35b986167c457d-tooltip{
+  background: var(--purple0);
+  ._4e35b986167c457d-caretFill{
+    fill: var(--purple0);
+  }
+}
+.b8880176888cc928-typing{
+  background:none !important;
+}
+._8e680ffe35110238-container div div{
+  background-color: var(--purple1);
+}
+
+._0624fc41b766635c-row{
+  background-color: var(--purple0) !important;
+}
+._0624fc41b766635c-row div{
+  background-color: var(--purple0) !important;
+}
+.f8c98cc3d7c1bc42-box{
+  background-color: var(--purple1);
+}
+._50a5493e9d9cc496-headingCard{
+  background-color: var(--purple1) !important;
+}
+.d84e0fd1f07926c7-actionMenuButton{
+  background-color: var(--purple1);
+}
+._803f2f55621144fb-sessionIcon svg path{
+  fill:var(--purple1);
+}
+._803f2f55621144fb-sessionIcon{
+  background-color: var(--purple4);
+}
+._803f2f55621144fb-legacySession{
+  ._803f2f55621144fb-sessionIcon{
+    background-color: var(--purple0);
+  }
+}
+._70f7f6541f6f031e-innerWrapper{
+  background-color: var(--purple0);
+}
+._3e443c6b2569044a-preview{
+  background-color: var(--purple3);
+}
+.a1d343a407a39907-container{
+  background-color: var(--purple1);
+}
+.fbfab602fa801e7a-colorThemesBackground{
+  background-color: var(--purple1);
+}
+._5d148ffac19e7fb1-preview{
+  background-color: var(--purple3) !important;
+}
+.fb7bea5ed91ce0c5-krispCard{
+  background-color: var(--purple1);
+}
+._730694f5672c9601-cardPrimary{
+  border-color: var(--purple1);
+  border-width: 3px;
+}
+._3f21e80f8677ec40-container{
+  background-color:var(--purple3) !important;
+}
+._3f21e80f8677ec40-checked{
+  background-color:var(--purple0) !important;
+}
+._3f21e80f8677ec40-slider svg path{
+  fill:var(--purple0);
+}
+._740f25428e5fa983-defaultKeybindGroup{
+  background-color: var(--purple1);
+}
+._730694f5672c9601-cardPrimary{
+  background-color: var(--purple1) !important;
+}
+._7db089e5a4993141-headerContainer{
+  background-color: var(--purple2);
+}
+.cc46f0f859f26200-activeGame{
+  background-color: var(--purple1);
+}
+.cc46f0f859f26200-game{
+  background-color: var(--purple1);
+}
+.adebbad0504cfbbb-username{
+  background-color: var(--purple1);
+}
+.bd-switch-checked div{
+  background-color:var(--purple0) !important;
+}
+.d9c8822889d1d4a1-header{
+  background-color: var(--purple0);
+}
+.c441f0072c3e8827-list{
+  background-color: var(--purple1);
+}
+._1b24f0fdfb13e41c-icon{
+  background-color: var(--purple2);
+}
+.e8b59c4b335dd2fc-header{
+  background-color: var(--purple0);
+}
+.e8b59c4b335dd2fc-messagesPopout{
+  background-color: var(--purple1);
+}
+.e8b59c4b335dd2fc-footer{
+  background-color: var(--purple2);
+}
+.c8ffbb79449f399c-members{
+  background-color: var(--purple2);
+}
+._91a9d7f7e5248a56-childContainer{
+  background-color: var(--purple2);
+}
+._5d473ecff348c314-member{
+  background-color: var(--purple2);
+}
+.c8ffbb79449f399c-container{
+  border-color: var(--purple2);
+}
+._23e6b439306f125a-sidebarRegionScroller{
+  background-color:var(--purple1);
+}
+._23e6b439306f125a-contentRegionScroller{
+  background-color: var(--purple2);
+}
+.b08af5b79e91319b-container{
+  background-color: var(--purple0);
+}
+._0ed4fc708cdbac0d-inputWrapper{
+  background-color: var(--purple1);
+}
+.e4d0bf303c296a8e-imageUploaderInner{
+  background-color: var(--purple1);
+}
+.a36dee84341ac9f5-tierHeaderContent{
+  background-color: var(--purple1);
+}
+._83b1d7042b9be375-wrapper{
+  background-color:var(--purple1) ;
+}
+.a36dee84341ac9f5-tierBody{
+  background-color: var(--purple1);
+}
+.a36dee84341ac9f5-tierLock path{
+  fill:var(--purple2);
+}
+.a36dee84341ac9f5-tierIcon path{
+  fill:var(--purple2);
+}
+.ec75b344a807d94d-banner{
+  background-color: var(--purple1);
+}
+._23e6b439306f125a-customColumn{
+  background-color: var(--purple2);
+}
+.fa2640ef99d88f6e-mainTableContainer{
+  background-color: var(--purple1);
+}
+.d8f25bf4f76423e6-container{
+  background-color: var(--purple1);
+}
+.e29cd7b93c4f1266-titleContainer{
+  background-color: var(--purple2);
+}
+.c6bf1b7af480dfda-header{
+  background-color: var(--purple2);
+}
+._0f2e83213c878a13-container{
+  background-color: var(--purple1);
+}
+.af3b89684c536957-popout div{
+  background-color: var(--purple1);
+}
+._1feb0fca744244ab-inventoryWrapper{
+  background-color: var(--purple2);
+}
+.bf1984a18b3ec6f0-active{
+  background-color: var(--purple3) !important;
+}
+._36d072eab2b2e737-chatGradientBase{
+  display:none;
+}
+._36d072eab2b2e737-chatTypingGradientAtBottom{
+  display:none;
+}
+._6db1d32c47b6ad72-shop{
+  border-color: var(--purple0);
+}
+.f37cb1984c371ee5-header{
+  margin-top:px;
+}
+._4e30a003110eaaf1-container{
+  background-color: var(--purple1);
+}
+.b1bfd4bdd69b9a6d-container{
+  background-color: var(--purple2);
+}
+._5dec784a68542d60-panel{
+  background-color: var(--purple2);
+}
+._0d0f9ddd12a3ace3-container{
+  border-color: var(--purple0);
+  border-width: 3px;
+}
+._7aaec78b97ff00f7-bar{
+  background-color: var(--purple2);
+}
+.f37cb1984c371ee5-header{
+  border-color: var(--purple0);
+  border-top: 3px !important;
+  border-start-start-radius: 1px !important;
+}
+._5e434347c823b592-sidebarList{
+  border-top-style: solid !important;
+  border-color: var(--purple0)!important;
+}
+._740174f3d6a2c8fe-scrollableContainer{
+  border-radius: 0px;
+}
+.f75fb00fb7356cbe-channelTextArea{
+  border-radius: 0px;
+  border-color: var(--purple3);
+}
+.f75fb00fb7356cbe-channelTextArea:hover{
+  border-radius: 0px;
+  border-color: var(--purple3);
+}
+._9293f6b2fc12398a-channelIcon{
+  background: url(https://i.imgur.com/7UveLMg.png) center/cover no-repeat;
+  width:32px;
+  svg{
+    visibility: hidden;
+  }
+}
+._9293f6b2fc12398a-upperContainer{
+  width: 805px;
+  margin-left: -5px;
+}
+.c38106a3f0c3ca76-bar {
+  position: relative;
+}
+.c38106a3f0c3ca76-bar::before{
+  content: "Nightcord at 25:00";
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: url(https://i.imgur.com/7UveLMg.png) left center no-repeat;
+  background-size: 24px 24px;
+  padding-left: 28px;
+  white-space: nowrap;
+  color: white;
+  z-index: 2;
+}
+
+.edbb22df99c39831-title{
+  visibility: hidden;
+}
+.c38106a3f0c3ca76-trailing{
+  ._85643a485899904b-button {
+    visibility: hidden;
+  }
+  .c99c29809d200a61-clickable{
+    visibility: hidden;
+  }
+}
+.c38106a3f0c3ca76-winButtons::before{
+  visibility: hidden;
+}
+._2ea32c412048f708-icon path{
+  fill: var(--purple4);
+}
+._29444ba32c7fbeab-addButtonIcon path{
+  fill: var(--purple4);
+}
+.b0dfc2ed9c57037d-overflow{
+  color: var(--purple4);
+}
+._9a9f981d3524e20f-container{
+  background-color: var(--purple1);
+}
+.f62fcea76cf9e158-cardContent{
+  background-color: var(--purple1);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+._535437b3d3b11fd1-scroller{
+  background-color: var(--purple2);
+}
+._0ab2c03be0b88164-sidebarHeaderDefault{
+  color:var(--purple4);
+}
+.c2b141c0f80863fb-container div{
+  color: var(--purple4);
+}
+._5e434347c823b592-sidebar.theme-dark.images-dark::after{
+  background-color: var(--purple1);
+}
+.a9e7064fdee8e9b0-searchResultsWrap{
+  background-color: var(--purple2);
+  border-color: var(--purple1);
+}
+._02a39cb2980ceaaf-searchResult{
+  background-color: var(--purple1);
+}
+.f3b986a284a18c78-searchHeader{
+  border-color: var(--purple2);
+}
+.f1c5c9823fbd3ef8-container{
+  background-color: var(--purple1);
+}
+._5fa2fb5c4d963128-selectDropdown{
+  background-color: var(--purple2);
+}
+.public-DraftStyleDefault-block{
+  background-color: var(--purple2);
+}
+._7e549558f336cddb-itemCard:hover{
+  background-color: var(--purple3) !important;
+}
+._7d20cf18f8a2784c-header{
+  color: var(--purple4);
+}
+.fc004c9c041aaefa-actions:hover div{
+  background-color: var(--purple2);
+}
+._581051df43c5ebb6-item{
+  background-color: var(--purple4);
+}
+._084343c4f11eaaab-contentWrapper{
+  background-color: var(--purple2);
+}
+.c0e32c5cffed3d9f-bodyWrapper div{
+  background-color: var(--purple2);
+}
+._4e6cebf8beed1ad8-wrapper{
+  background-color: var(--purple2);
+}
+.aeaaeb2a573807f0-inspector{
+  background-color: var(--purple2) ;
+}
+.b9ee0c229bc0b6bb-categoryItemDefaultCategory{
+  background-color: var(--purple2);
+}
+.fc7141859aaa98b7-emojiItem:hover{
+  background-color: var(--purple1);
+}
+._14245bb948377a25-header{
+  background-color: transparent !important;
+}
+.d02962a38047ac3c-container{
+  background-color: var(--purple1);
+}
+.fed6d32841cc2da2-header{
+  background-color: var(--purple2);
+}
+._14245bb948377a25-wrapper,._8ef02eea17068b73-header,._31fc2df9348cd84a-pngImage{
+  background-color: var(--purple2);
+}
+.ab86098b36386ff7-outer{
+  background-color: var(--purple2);
+}
+.ab86098b36386ff7-inner{
+  background-color: var(--purple2);
+}
+.a592e1970a0ce22c-container{
+  border-color: var(--purple0);
+  border-width: 3px;
+}
+._551b0894962ff66f-header{
+  border-color: var(--purple0);
+  border-width: 3px;
+}
+.affa7e120767dd82-scroller{
+  background-color: var(--purple2);
+}
+._0be773cf1443f34f-container{
+  background-color: var(--purple1);
+}
+._4c5209741d147f1b-answerInner{
+  background-color: var(--purple2);
+}
+._0ccaee68b77c7469-file{
+  background-color: var(--purple3);
+}
+.c50f6267327b9a8c-collectibleInfoContainer{
+  background-color: var(--purple1);
+}
+._49fc18ba07c5025f-root{
+  background-color: var(--purple1);
+}
+._710ee07a7daf765f-circle{
+  background-color:var(--purple2);
+}
+
+._8826425bb0684b12-card:hover{
+  background-color: var(--purple0);
+}
+._8826425bb0684b12-card{
+  background-color: var(--purple1);
+}
+._49fc18ba07c5025f-content{
+  background-color: var(--purple2);
+}
+._5126c0cd07f243a0-mentioned{
+  background-color: rgba(176, 170, 211, 0.3);
+}
+.public-DraftStyleDefault-block{
+  visibility: hidden;
+}
+.fa899598aa672b23-wrapper{
+  background-color: var(--purple1);
+}
+.c38106a3f0c3ca76-winButtonMinMax svg {
+  display: none;
+}
+.c38106a3f0c3ca76-winButtonMinMax[aria-label="Maximize"]::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #47ecff;
+  vertical-align: middle;
+}
+.c38106a3f0c3ca76-winButtonMinMax[aria-label="Minimize"]::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fee659;
+  vertical-align: middle;
+}
+
+.c38106a3f0c3ca76-winButton svg {
+  display: none;
+}
+.c38106a3f0c3ca76-winButton::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #ff5bb4;
+  vertical-align: middle;
+}
+._8946359d8adb1488-toolbar{
+  margin-top:0px
+}
+.c8dbe9074540e86d-root{
+  background-image: url(https://static.wikitide.net/projectsekaiwiki/thumb/e/ed/Bg_area_10.png/1280px-Bg_area_10.png);
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.affa7e120767dd82-scroller{
+  background-image: url(https://static.wikitide.net/projectsekaiwiki/thumb/e/ed/Bg_area_10.png/1280px-Bg_area_10.png); 
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
