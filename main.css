@@ -1,3 +1,10 @@
+/**
+* @name Nightcordcode
+* @description Nightcord from pjsk !
+* @author Tetralink
+* @version 1.3
+*/
+
 .bar_c38106{
   background-color: var(--purple1);
 }
@@ -525,7 +532,7 @@
   background-color: var(--purple1);
 }
 .footer_e8b59c{
-  background-color: var(--purple2);
+  background-color: var(--purple1);
 }
 .members_c8ffbb{
   background-color: var(--purple2);
@@ -776,7 +783,7 @@
   background-color: var(--purple2);
 }
 .wrapper__14245,.header__8ef02,.pngImage__31fc2{
-  background-color: var(--purple2);
+  background-color: transparent;
 }
 .outer_ab8609{
   background-color: var(--purple2);
@@ -899,9 +906,6 @@ h2[class*="defaultColor"]{
 [class*="tagText"]{
   color: var(--purple4);
 }
-[role="img"] path{
-  fill : var(--purple4);
-}
 [class*="anchor_"] span{
   color: var(--purple5);
 }
@@ -923,4 +927,117 @@ a[aria-label*="unread"] div div{
 }
 [data-message-is-reply="true"] [class*="wrapper_"]::before {
   background-color: var(--purple0) !important;
+}
+.divider__5126c{
+  background-color: var(--purple1);
+  span{
+    background-color: var(--purple1);
+    color:var(--purple4);
+  }
+}
+.scroller_affa7e div{
+  background-color: transparent !important;
+}
+.container__927fc{
+  background-color: var(--purple1);
+}
+.appDetailsContainer_cb32c7{
+  background-color: var(--purple2);
+}
+.iconContainer_cb32c7{
+  background-color: var(--purple2);
+}
+.justifyStart_abf706{
+  background-color: var(--purple2);
+}
+.container__06283{
+  background-color: transparent !important;
+}
+.gray__06283{
+  color: var(--purple2) !important;
+}
+.cameraWrapper__11e1f{
+  background-color: var(--purple1);
+  border-color: var(--purple1);
+}
+.deviceIcon__12eef svg path{
+  fill: var(--purple4);
+}
+[class*="text-md"]{
+  color: var(--purple4) !important;
+}
+h1[class*="heading-md"]{
+  color: var(--purple4) !important;
+}
+[class*="text-sm"]{
+  color: var(--purple4) !important;
+}
+[class*="anchor_"]{
+  color: var(--purple5);
+}
+.secondaryIconDisabled__84bad path{
+  fill:var(--purple5);
+}
+.secondaryIcon__84bad path{
+  fill:var(--purple5);
+}
+.bar_a562c8{
+  background-color: var(--purple0) !important;
+}
+[class*="text-lg"]{
+  color: var(--purple5) !important;
+}
+[class*="selected"][class*="bd-box"]{
+  background-color: var(--purple5) !important;
+}
+.bd-container{
+  border-color: var(--purple4);
+}
+.bd-store-card-icon{
+  background-color: var(--purple0);
+}
+.bd-addon-store-card{
+  background-color: var(--purple1) !important;
+}
+.bd-addon-store-card-author-mask{
+  background-color: var(--purple2) !important;
+}
+.premiumFeatureBorder__65c15{
+  background-image: linear-gradient(
+ color-mix(in oklab, var(--purple0) 100%, rgb(0, 0, 0)),
+ color-mix(in oklab, var(--purple1) 100%, rgb(0, 0, 0))), linear-gradient(45deg, rgb(133, 71, 198), rgb(171, 93, 138));
+}
+.button__14992{
+  background-color: var(--purple2);
+}
+
+.upsellContainer__0b69f{
+  background-image: linear-gradient(
+ color-mix(in oklab, var(--purple0) 100%, rgb(0, 0, 0)),
+ color-mix(in oklab, var(--purple0) 100%, rgb(0, 0, 0))), linear-gradient(to right, rgb(133, 71, 198), rgb(184, 69, 193), rgb(171, 93, 138));
+}
+.scroller__6131a{
+  scrollbar-color: var(--purple3) var(--purple2);
+}
+.buttonChildren_a22cb0 svg{
+  fill : var(--purple4) !important;
+}
+.sidebar__5e434{
+  background-color: var(--black1) !important;
+}
+.sidebar__5e434::after{
+  background-color: var(--black1) !important;
+  width: 72px;
+}
+.container__5808f{
+  background-color: var(--purple1);
+}
+.container__16eb0{
+  background-color: var(--purple1);
+}
+.searchResultsWrap_a98f3b{
+  background-color: var(--purple1);
+}
+.message__80bf8{
+  background-color: var(--purple2);
 }
