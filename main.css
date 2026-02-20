@@ -549,7 +549,7 @@
   background-color: var(--purple0);
 }
 .inputWrapper__0ed4f{
-  background-color: var(--purple1);
+  background-color: var(--purple0);
 }
 .imageUploaderInner_e4d0bf{
   background-color: var(--purple1);
@@ -733,9 +733,7 @@
 .selectDropdown__5fa2f{
   background-color: var(--purple2);
 }
-.public-DraftStyleDefault-block{
-  background-color: var(--purple2);
-}
+
 .itemCard__7e549:hover{
   background-color: var(--purple3) !important;
 }
@@ -826,9 +824,6 @@
 .mentioned__5126c{
   background-color: rgba(176, 170, 211, 0.3);
 }
-.public-DraftStyleDefault-block{
-  visibility: hidden;
-}
 .wrapper_fa8995{
   background-color: var(--purple1);
 }
@@ -915,7 +910,7 @@ a[aria-label*="unread"] div div{
 [class*="channelTextArea"]{
   border-color: var(--purple1);
 }
-[role="article"]:has(span[data-text^="@"]) {
+[role="article"][class*="mentioned"]:has(span[data-text^="@"]) {
     background-color: var(--purple1);
 }
 [data-message-is-reply="true"] [class*="wrapper_"]::before {
@@ -1025,6 +1020,9 @@ h1[class*="heading-md"]{
 .container__5808f{
   background-color: var(--purple1);
 }
+g g g g path{
+  fill: var(--purple5) !important;
+}
 .container__16eb0{
   background-color: var(--purple1);
 }
@@ -1039,4 +1037,208 @@ h1[class*="heading-md"]{
 }
 .container__72c38{
   border-color:var(--purple1);
+}
+.postEnrollmentBackground__24e2c{
+  background-color: var(--purple1);
+  border-color: var(--purple1);
+}
+[class*="text-xs"]{
+  color: var(--purple4) !important;
+}
+.content__0d616{
+  border-color: var(--purple1);
+}.panels__5e434{
+  background-color: var(--purple1);
+}
+.wrapper_f61d60{
+  background-color: var(--purple3) !important;
+}
+.container__5573a{
+  background-color: var(--purple1) !important;
+  border-color: var(--purple3) !important;
+}
+.headerContainer__3f864{
+  svg path{
+    fill: var(--purple5); 
+  }
+  h2{
+    color: var(--purple5) !important;
+  }
+}
+.public-DraftStyleDefault-block div{
+  background-color: var(--purple2);
+}
+.channelNameText_a7e67f{
+  color: var(--purple4);
+}
+.public-DraftEditor-content {
+  color: var(--purple5);
+}
+.public-DraftEditor-content {
+  caret-color: var(--purple4);
+}
+.channelNameIcon_a7e67f path{
+  fill : var(--purple5)
+}
+.icon_a22cb0 path{
+  fill : var(--purple5)
+}
+[class*="timestamp"]{
+  color: var(--purple4) !important;
+}
+.header_c0e32c{
+  background-color: var(--purple1);
+}
+.menuItemIcon_ce8328 svg path{
+  fill: var(--purple4);
+}
+.itemIcon__971b5 path{
+  fill: var(--purple5);
+}
+.clearSearchHistoryIcon__971b5 path{
+  fill: var(--purple5);
+}
+.imageAccessory_af017a div{
+  background-color: var(--purple3);
+}
+.actionButtons_cc1819{
+  background-color: var(--purple0);
+  border-color: var(--purple0) ;
+}
+.buttonInner_aec7ab{
+  background-color: var(--purple0);
+  border-color: var(--purple0) ;
+  svg path{
+    fill: var(--purple4);
+  }
+}
+.chipletContainerInner__10651{
+  background-color: var(--purple2);
+}
+.inviteButton_f37cb1 svg path{
+  fill: var(--purple4);
+}
+.icon__0c4c4 path{
+  fill: var(--purple4);
+}
+.actionIcon_c69b6d path{
+  fill: var(--purple4);
+}
+.icon_c1e9c4 path{
+  fill: var(--purple4);
+}
+.label_c1e9c4{
+  color: var(--purple5) !important;
+}
+.tabWrapper__26669 h1{
+  border-bottom-color: var(--purple5) !important;
+}
+.children__9293f svg path{
+  fill: var(--purple5);
+}
+.linkButtonIcon__972a0 path{
+  fill: var(--purple5);
+}
+.name__20a53{
+  color: var(--purple4);
+}
+.subtext__972a0{
+  color: var(--purple3);
+}
+[class*="heading-md"]{
+  color: var(--purple5) !important;
+}
+.wideBannerArt__08415{
+  background-color: var(--purple1);
+  border-color: var(--purple1);
+}
+.barButtonMain__0f481{
+  color: var(--purple4);
+}
+.jumpToPresentBar__0f481{
+  background-color: var(--purple0);
+}
+.sprite__04eed{
+  background-color: var(--purple5);
+}
+.popout__76f04{
+  background-color: var(--purple1);
+}
+.unread__2ea32{
+  background-color: var(--purple5);
+}
+.headerChildren_f37cb1 svg path{
+  fill: var(--purple5);
+}
+.rulesIconContainer_c66e86{
+  background-color: var(--purple0);
+}
+.rulesIcon_c66e86 path{
+  fill: var(--purple4);
+}
+.placeholderImage__7449f{
+  background-color: var(--purple0);
+  svg path{
+    fill: var(--purple4);
+  }
+}
+.content_f75fb0{
+  background-color: var(--purple2) !important;
+}
+.prompt__5d7c9{
+  background-color: var(--purple1);
+}
+.pageBody__41ed7{
+  background-color: var(--purple2);
+}
+.container_bc0d35{
+  background-color: var(--purple1);
+}
+.channelRow_e4503a{
+  background-color: var(--purple1);
+}
+.icon_caf372 path{
+  fill: var(--purple5) !important;
+}
+.bd-sidebar-header{
+  color: var(--purple4);
+}
+.container__8061a{
+  background-color: var(--purple2);
+}
+.wrapper__44b0c{
+  background-color: var(--purple1) !important;
+}
+.icon_f8fa06 path{
+  fill: var(--purple5);
+}
+.autocompleteQuerySymbol_ac6cb0{
+  background-color: var(--purple2);
+}
+.container_a14595{
+  background-color: var(--purple1);
+}
+.navItemIcon__551b0 svg path{
+  fill: var(--purple5);
+}
+.icon__0f084 svg path{
+  fill: var(--purple5);
+}
+.icon__8a7fc path{
+  fill: var(--purple5);
+}
+.tab__65d41{
+  color: var(--purple5) !important;
+}
+.postEnrollmentBackground__24e2c{
+  border-color: transparent;
+}
+.card__84e3e{
+  background-color: var(--purple1) !important;
+}
+.avatar_f215b9{
+  border-color: var(--purple0) !important;
+}
+.addFriendInputWrapper__72ba7{
+  background-color: var(--purple0);
 }
