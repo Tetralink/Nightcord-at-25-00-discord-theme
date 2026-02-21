@@ -889,7 +889,7 @@ h2[class*="defaultColor"]{
   color: var(--purple4);
 }
 [id*="message-content"]{
-  color: var(--purple4);
+  color: var(--purple5);
 }
 [class*="tagText"]{
   color: var(--purple4);
