@@ -78,7 +78,7 @@
 .container_a62383{
   background-color: var(--purple1);
 }
-.container__1a51c{
+.container_a5c474{
   background-color: var(--purple2);
   margin-top: 0px;
   align-items: end;
@@ -98,7 +98,7 @@
 .container__956c6{
   background-color: var(--purple1);
 }
-.container__6c21f{
+.container_d4630c{
   border-color: var(--purple1);
 }
 .base__5e434{
@@ -153,7 +153,7 @@
   height:3px;
 }
 .childWrapperNoHoverBg__6e9f8:nth-child(2){
-  background: url(https://i.imgur.com/3hrdPZ4.png) center/cover no-repeat;
+  background: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/1Logo3Nightcord.png) center/cover no-repeat;
 }
 .childWrapper__6e9f8 svg path{
   display: none;
@@ -197,7 +197,7 @@
   border-color: var(--purple1);
 }
 .root__6981d{
-  background-image: url(https://static.wikitide.net/projectsekaiwiki/thumb/e/ed/Bg_area_10.png/1280px-Bg_area_10.png);
+  background-image: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/2Bg_area_10.png);
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -269,7 +269,7 @@
 .bd-container{
   background-color: var(--purple1);
 }
-.groupContent__9d98d{
+.groupContent__70d86{
   background-color: var(--purple1);
 
 }
@@ -391,13 +391,13 @@
   background-color: var(--purple0) !important;
 }
 
-.wave__8e08c{
+.wave_d81f48{
   fill:var(--purple2);
 }
-.recommendedServerCard__51537{
+.recommendedServerCard__6d839{
   background-color: var(--purple1);
 }
-.faq__744ff{
+.faq__5d9e5{
   background-color: var(--purple1);
 }
 .card__4d7bb{
@@ -406,14 +406,14 @@
 .perkCard_b62c4e{
   background-color: var(--purple1);
 }
-.header__5cea9{
+.header__416c7{
   background-color: var(--purple0);
 }
-.usersList__5cea9{
+.usersList__416c7{
   background-color: var(--purple1);
 }
-.emptyContainer_de8069{
-  background-image: url(https://i.imgur.com/LJT3Nlc.png);
+.emptyContainer__5348b{
+  background-image: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/3nightcord.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -497,10 +497,10 @@
 .headerContainer__7db08{
   background-color: var(--purple2);
 }
-.activeGame_cc46f0{
+.activeGame__497cd{
   background-color: var(--purple1);
 }
-.game_cc46f0{
+.game__497cd{
   background-color: var(--purple1);
 }
 .username_adebba{
@@ -648,7 +648,7 @@
   border-color: var(--purple3);
 }
 .channelIcon__9293f{
-  background: url(https://i.imgur.com/7UveLMg.png) center/cover no-repeat;
+  background: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/4Logo2.png) center/cover no-repeat;
   width:32px;
   svg{
     visibility: hidden;
@@ -666,7 +666,7 @@
   left: 12px;
   top: 50%;
   transform: translateY(-50%);
-  background: url(https://i.imgur.com/7UveLMg.png) left center no-repeat;
+  background: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/4Logo2.png) left center no-repeat;
   background-size: 24px 24px;
   padding-left: 28px;
   white-space: nowrap;
@@ -865,13 +865,13 @@
   margin-top:0px
 }
 .root_c8dbe9{
-  background-image: url(https://static.wikitide.net/projectsekaiwiki/thumb/e/ed/Bg_area_10.png/1280px-Bg_area_10.png);
+  background-image: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/2Bg_area_10.png);
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .scroller_affa7e{
-  background-image: url(https://static.wikitide.net/projectsekaiwiki/thumb/e/ed/Bg_area_10.png/1280px-Bg_area_10.png); 
+  background-image: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/2Bg_area_10.png); 
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -944,7 +944,7 @@ a[aria-label*="unread"] div div{
 .gray__06283{
   color: var(--purple2) !important;
 }
-.cameraWrapper__11e1f{
+.cameraWrapper__36486{
   background-color: var(--purple1);
   border-color: var(--purple1);
 }
