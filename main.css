@@ -98,7 +98,7 @@
 .container__956c6{
   background-color: var(--purple1);
 }
-.container__23ba6{
+.container_a244c3{
   border-color: var(--purple1);
 }
 .base__5e434{
@@ -248,13 +248,13 @@
 .scroller__6131a{
   background-color: var(--purple2);
 }
-.accountProfileCard_a27e58{
+.accountProfileCard_a9178b{
   background-color: var(--purple1);
 }
-.background_a27e58{
+.background_a9178b{
   background-color: var(--purple2);
 }
-.fieldList_a27e58{
+.fieldList_a9178b{
   background-color: var(--purple2);
 }
 .fixedContent__409aa::after{
@@ -269,11 +269,11 @@
 .bd-container{
   background-color: var(--purple1);
 }
-.groupContent__70d86{
+.groupContent_ef8d95{
   background-color: var(--purple1);
 
 }
-.collapseable__217b7{
+.collapseable__2d143{
   border-color: var(--purple1);
 }
 .grabber_a562c8{
@@ -391,28 +391,28 @@
   background-color: var(--purple0) !important;
 }
 
-.wave_d81f48{
+.wave_a2ba57{
   fill:var(--purple2);
 }
-.recommendedServerCard__6d839{
+.recommendedServerCard_de1b16{
   background-color: var(--purple1);
 }
-.faq__5d9e5{
+.faq__86cd6{
   background-color: var(--purple1);
 }
 .card__4d7bb{
   background-color: var(--purple1);
 }
-.perkCard_b62c4e{
+.perkCard_e6430c{
   background-color: var(--purple1);
 }
-.header__416c7{
+.header_a72ffc{
   background-color: var(--purple0);
 }
-.usersList__416c7{
+.usersList_a72ffc{
   background-color: var(--purple1);
 }
-.emptyContainer__5348b{
+.emptyContainer__88a04{
   background-image: url(https://tetralink.github.io/Nightcord-at-25-00-discord-theme/assets/3nightcord.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -440,20 +440,20 @@
 .box_f8c98c{
   background-color: var(--purple1);
 }
-.headingCard__24605{
+.headingCard__92059{
   background-color: var(--purple1) !important;
 }
 .actionMenuButton_d84e0f{
   background-color: var(--purple1);
 }
-.sessionIcon_c8ddd4 svg path{
+.sessionIcon__956ff svg path{
   fill:var(--purple1);
 }
-.sessionIcon_c8ddd4{
+.sessionIcon__956ff{
   background-color: var(--purple4);
 }
-.legacySession_c8ddd4{
-  .sessionIcon_c8ddd4{
+.legacySession__956ff{
+  .sessionIcon__956ff{
     background-color: var(--purple0);
   }
 }
@@ -466,7 +466,7 @@
 .container_a1d343{
   background-color: var(--purple1);
 }
-.colorThemesBackground__1f3ba{
+.colorThemesBackground__965a6{
   background-color: var(--purple1);
 }
 .preview__5d148{
@@ -475,7 +475,7 @@
 .krispCard_fb7bea{
   background-color: var(--purple1);
 }
-.cardPrimary__73069{
+.cardPrimary_b5dd01{
   border-color: var(--purple1);
   border-width: 3px;
 }
@@ -488,19 +488,19 @@
 .slider__3f21e svg path{
   fill:var(--purple0);
 }
-.defaultKeybindGroup__57111{
+.defaultKeybindGroup_f82450{
   background-color: var(--purple1);
 }
-.cardPrimary__73069{
+.cardPrimary_b5dd01{
   background-color: var(--purple1) !important;
 }
 .headerContainer__7db08{
   background-color: var(--purple2);
 }
-.activeGame__497cd{
+.activeGame_b53c4e{
   background-color: var(--purple1);
 }
-.game__497cd{
+.game_b53c4e{
   background-color: var(--purple1);
 }
 .username_adebba{
@@ -944,7 +944,7 @@ a[aria-label*="unread"] div div{
 .gray__06283{
   color: var(--purple2) !important;
 }
-.cameraWrapper__36486{
+.cameraWrapper__92346{
   background-color: var(--purple1);
   border-color: var(--purple1);
 }
